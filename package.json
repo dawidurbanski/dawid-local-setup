@@ -1,0 +1,24 @@
+{
+  "name": "dawid-local-setup",
+  "version": "1.0.0",
+  "description": "Easy local setup to follow Dawid Urbański's online tutorials",
+  "main": "index.js",
+  "scripts": {
+    "init": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidurbanski/dawid-local-setup.git"
+  },
+  "keywords": [
+    "local",
+    "server",
+    "parcel"
+  ],
+  "author": "Dawid Urbański",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dawidurbanski/dawid-local-setup/issues"
+  },
+  "homepage": "https://github.com/dawidurbanski/dawid-local-setup#readme"
+}
