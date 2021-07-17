@@ -1,9 +1,9 @@
 {
   "name": "dawid-local-setup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy local setup to follow Dawid Urbański's online tutorials",
   "bin": {
-    "dawid-local-setup": "./index.js"
+    "dawid-local-setup": "node ./index.js"
   },
   "repository": {
     "type": "git",
