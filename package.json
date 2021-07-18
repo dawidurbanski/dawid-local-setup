@@ -1,6 +1,6 @@
 {
   "name": "dawid-local-setup",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Easy local setup to follow Dawid Urbański's online tutorials",
   "bin": {
     "dawid-local-setup": "index.js"
