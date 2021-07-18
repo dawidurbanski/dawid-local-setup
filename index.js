@@ -42,7 +42,7 @@ for (const { file, path } of templates) {
     });
 }
 
-exec('npm install', {cwd: dir}, (err, stdout, stderr) => {
+exec('npm install --loglevel=error', {cwd: dir}, (err, stdout, stderr) => {
     if (err) {
         return;
     }
